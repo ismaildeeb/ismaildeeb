@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/main/resources/img/grid-snake.svg" alt="snake animation" width="100%">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%">
 </div>
 
 <hr>
@@ -34,7 +34,7 @@
   <p align="center">
     Passionate full-stack developer with expertise in web and mobile development.<br>
     Skilled in React.js, React Native, Django, and Laravel frameworks.<br>
-    Experienced in database management and cybersecurity fundamentals.<br>
+    Strong team player with excellent collaboration skills.<br>
     Fluent in Arabic with professional working proficiency in English.
   </p>
 </div>
@@ -85,6 +85,7 @@
   <h2 align="center">Other Details</h2>
   <p align="center">
     <strong>Languages:</strong> Arabic (Native), English (B1), German (A1)<br>
+    <strong>Team Skills:</strong> Excellent collaboration and communication abilities<br>
     <strong>Availability:</strong> Remote work, Under pressure situations<br>
     <strong>Interests:</strong> Cybersecurity, Bug Bounty, Linux Systems
   </p>
@@ -94,5 +95,5 @@
 <hr>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views">
+  <img src="https://komarev.com/ghpvc/?username=ismaildeeb&label=Profile%20views&color=0e75b6&style=flat" alt="profile views">
 </p>
